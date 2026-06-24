@@ -1,0 +1,6 @@
+[submodule "microservices/comment-service"]
+	path = microservices/comment-service
+	url = git@github.com:eskokado/comment-service.git
+[submodule "microservices/moderation-service"]
+	path = microservices/moderation-service
+	url = git@github.com:eskokado/moderation-service.git
